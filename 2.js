@@ -1,0 +1,1 @@
+const getPerson = (name, surmane) => name + ' ' + surname;
