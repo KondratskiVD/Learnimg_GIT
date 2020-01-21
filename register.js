@@ -1,0 +1,1 @@
+const register = (login, pass) => "account was registered " + login + " " + pass;
